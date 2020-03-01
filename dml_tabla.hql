@@ -6,3 +6,4 @@ apellido varchar2(19) ,
 nrodocumento int
 ) 
 tablespace tmp;
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
